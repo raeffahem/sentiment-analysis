@@ -39,3 +39,16 @@ Results should be interpreted with caution in real-world use cases.
 "I couldn’t be happier… if I were dead." → Positive (40.9%)
 
 This demonstrates the limitations of pre-trained sentiment models when handling sarcasm or context-dependent language.
+
+
+Future Improvements
+
+Fine-tune the model on datasets containing sarcasm and irony.
+
+Expand the model to handle multi-class sentiment (e.g., joy, anger, sadness) instead of only Positive/Neutral/Negative.
+
+Add support for longer texts and document-level sentiment analysis.
+
+Improve frontend UI with better styling and visualization of confidence scores.
+
+Deploy the application to a cloud platform (e.g., Heroku, AWS, or Render) for wider accessibility.
